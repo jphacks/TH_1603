@@ -1,0 +1,90 @@
+2016-10-30 03:05:45 Notice: Notice (8): Trying to get property of non-object in [/canvases/cu76nat/data/agj/app/Controller/UsersController.php, line 57]
+Trace:
+UsersController::news() - APP/Controller/UsersController.php, line 57
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2016-10-30 03:06:20 Notice: Notice (8): Trying to get property of non-object in [/canvases/cu76nat/data/agj/app/Controller/UsersController.php, line 55]
+Trace:
+UsersController::news() - APP/Controller/UsersController.php, line 55
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2016-10-30 03:06:36 Notice: Notice (8): Trying to get property of non-object in [/canvases/cu76nat/data/agj/app/Controller/UsersController.php, line 55]
+Trace:
+UsersController::news() - APP/Controller/UsersController.php, line 55
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2016-10-30 03:07:06 Notice: Notice (8): Trying to get property of non-object in [/canvases/cu76nat/data/agj/app/Controller/UsersController.php, line 55]
+Trace:
+UsersController::news() - APP/Controller/UsersController.php, line 55
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2016-10-30 03:09:41 Notice: Notice (8): Trying to get property of non-object in [/canvases/cu76nat/data/agj/app/Controller/UsersController.php, line 57]
+Trace:
+UsersController::news() - APP/Controller/UsersController.php, line 57
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2016-10-30 03:09:54 Notice: Notice (8): Trying to get property of non-object in [/canvases/cu76nat/data/agj/app/Controller/UsersController.php, line 57]
+Trace:
+UsersController::news() - APP/Controller/UsersController.php, line 57
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2016-10-30 03:23:13 Notice: Notice (8): Undefined variable: title in [/canvases/cu76nat/data/agj/app/Controller/UsersController.php, line 56]
+Trace:
+UsersController::news() - APP/Controller/UsersController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2016-10-30 03:23:13 Notice: Notice (8): Undefined variable: text in [/canvases/cu76nat/data/agj/app/Controller/UsersController.php, line 57]
+Trace:
+UsersController::news() - APP/Controller/UsersController.php, line 57
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2016-10-30 03:23:26 Notice: Notice (8): Undefined variable: title in [/canvases/cu76nat/data/agj/app/Controller/UsersController.php, line 56]
+Trace:
+UsersController::news() - APP/Controller/UsersController.php, line 56
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
+2016-10-30 03:23:26 Notice: Notice (8): Undefined variable: text in [/canvases/cu76nat/data/agj/app/Controller/UsersController.php, line 57]
+Trace:
+UsersController::news() - APP/Controller/UsersController.php, line 57
+ReflectionMethod::invokeArgs() - [internal], line ??
+Controller::invokeAction() - CORE/Cake/Controller/Controller.php, line 490
+Dispatcher::_invoke() - CORE/Cake/Routing/Dispatcher.php, line 185
+Dispatcher::dispatch() - CORE/Cake/Routing/Dispatcher.php, line 160
+[main] - APP/webroot/index.php, line 108
+
